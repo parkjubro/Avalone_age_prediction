@@ -1,6 +1,6 @@
 # README
 
-> 데이콘 전복 나이 예측 경진대회를 준비
+> 데이콘 전복 나이 예측 경진대회를 준비합니다.
 
 
 
@@ -34,3 +34,4 @@ git push <remote 이름> master
 git commit -m "Day1_홍길동_fix"
 git commit -m "Day1_홍길동_add"
 ```
+
